@@ -12,11 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hajar-blue?logo=linkedin)](https://my.linkedin.com/in/hajar-razip-a05889193)
 [![Gmail](https://img.shields.io/badge/Gmail-hajarrazip@gmail.com-red?logo=gmail)](mailto:hajarrazip@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Hajar-orange?logo=stackoverflow)](https://stackoverflow.com/users/12093885/hajar-razip)
-<<<<<<< HEAD
 ![Visits](https://img.shields.io/badge/Visits-48-blue?logo=github)
-=======
-![Visits](https://img.shields.io/badge/Visits-48-blue?logo=github)
->>>>>>> 073cebc (Fix badge)
 
 # Hi there! 👋 
 
