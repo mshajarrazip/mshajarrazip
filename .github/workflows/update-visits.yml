@@ -34,7 +34,7 @@ jobs:
       - name: Update README.md
         run: |
           BADGE=$(cat visits_badge.md)
-          sed -i "s|\[!\[Visits\](.*)\]()|$BADGE|" README.md
+          sed -i "s|\[!\[Visits\](.*)\]\(\)|$BADGE|" README.md
   
       - name: Commit and push changes
         run: |
