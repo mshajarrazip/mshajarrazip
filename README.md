@@ -13,9 +13,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-hajarrazip@gmail.com-red?logo=gmail)](mailto:hajarrazip@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Hajar-orange?logo=stackoverflow)](https://stackoverflow.com/users/12093885/hajar-razip)
 <<<<<<< HEAD
-![Visits](https://img.shields.io/badge/Visits-$VISITS-blue?style=flat-square&logo=github)
+![Visits](https://img.shields.io/badge/Visits-48-blue?style=flat-square![Visits](https://img.shields.io/badge/Visits-$VISITS-blue?style=flat-square&logo=github)logo=github)
 =======
-![Visits](https://img.shields.io/badge/Visits-48-blue?style=flat-square![Visits](https://img.shields.io/badge/Visits-48-blue?style=flat-square![Visits](https://img.shields.io/badge/Visits-17326-blue?style=flat-square&logo=github)logo=github)logo=github)
+![Visits](https://img.shields.io/badge/Visits-48-blue?style=flat-square![Visits](https://img.shields.io/badge/Visits-48-blue?style=flat-square![Visits](https://img.shields.io/badge/Visits-48-blue?style=flat-square![Visits](https://img.shields.io/badge/Visits-17326-blue?style=flat-square&logo=github)logo=github)logo=github)logo=github)
 >>>>>>> 15720473dc0717a79090805f2233e0aca74fb85c
 
 # Hi there! 👋 
