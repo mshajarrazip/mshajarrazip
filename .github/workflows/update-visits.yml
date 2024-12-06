@@ -29,12 +29,12 @@ jobs:
         run: |
           VISITS=$(cat visits.txt)
           echo "VISITS=$VISITS" >> $GITHUB_ENV
-          echo "![Visits](https://img.shields.io/badge/Visits-$VISITS-blue?style=flat-square&logo=github)()" > visits_badge.md
+          echo "[![Visits](https://img.shields.io/badge/Visits-$VISITS-blue?style=flat-square&logo=github)]()" > visits_badge.md
   
       - name: Update README.md
         run: |
           BADGE=$(cat visits_badge.md)
-          sed -i "s|!\[Visits\](.*)()|$BADGE|" README.md
+          sed -i "s|\[!\[Visits\](.*)\]()|$BADGE|" README.md
   
       - name: Commit and push changes
         run: |
