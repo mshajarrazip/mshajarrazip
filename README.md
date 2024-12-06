@@ -8,6 +8,7 @@
          (_)   ( )_| | (_)   (_)              (_)     (_) /( | |    
                 \___/                                    (__)(_)    
 ```
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hajar-blue)](https://my.linkedin.com/in/hajar-razip-a05889193)
 [![Gmail](https://img.shields.io/badge/Gmail-hajarrazip@gmail.com-red)](mailto:hajarrazip@gmail.com)
 ![Visits](https://img.shields.io/badge/Visits-0-blue)
