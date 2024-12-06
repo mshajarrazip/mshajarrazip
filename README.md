@@ -16,6 +16,8 @@
 
 # Hi there! 👋 
 
+<div style="float: left; margin-right: 10px;"> <img src="img/me.png" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; object-fit: cover;" /> </div>
+
 **I'm Hajar** - I'm a software developer based in Malaysia. My main interest is in data science, machine learning & MLOps.
 
 In my free time I enjoy reading, drawing and raising my two cats 🐱🐱.
