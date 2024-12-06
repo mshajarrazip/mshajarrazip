@@ -34,6 +34,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add visits.txt README.md
+          git add visits.txt visits.svg
           git commit -m 'Update visits count and badge'
           git push
