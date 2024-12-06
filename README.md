@@ -16,7 +16,7 @@
 
 # Hi there! 👋 
 
-<div style="float: left; margin-right: 10px;"> <img src="img/me.png" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; object-fit: cover;" /> </div>
+<p align="center"> <img src="img/me.png" alt="me" width="200" height="200" style="border-radius: 50%; object-fit: cover;" /> </p>
 
 **I'm Hajar** - I'm a software developer based in Malaysia. My main interest is in data science, machine learning & MLOps.
 
