@@ -5,7 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
+    # - cron: '0 0 * * *' # Runs every day at midnight
+    - cron: '*/5 * * * *' # Runs every 5 minutes
 
 jobs:
   update-visits:
@@ -24,16 +25,15 @@ jobs:
           echo $visits > visits.txt
           echo "::set-output name=visits::$visits"
 
-      - name: Update README.md
+      - name: Read visits.txt and generate visits.svg
         run: |
-          visits=${{ steps.increment.outputs.visits }}
-          badge="![Visits](https://img.shields.io/badge/Visits-17326-blue)"
-          sed -i 's|!\[Visits\](https://img.shields.io/badge/Visits-.*-blue)|'"$badge"'|' README.md
-
+          VISITS=$(cat visits.txt)
+          echo "<svg xmlns='http://www.w3.org/2000/svg' width='100' height='20'><rect width='100' height='20' fill='#555'/><rect x='37' width='63' height='20' fill='#4c1'/><text x='3' y='14' fill='#fff'>Visits</text><text x='40' y='14' fill='#fff'>$VISITS</text></svg>" > visits.svg
+  
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add visits.txt README.md
-          git commit -m 'Update visits count'
+          git commit -m 'Update visits count and badge'
           git push
