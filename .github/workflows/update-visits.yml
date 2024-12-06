@@ -27,9 +27,9 @@ jobs:
       - name: Update README.md with badge
         run: |
           VISITS=$(cat visits.txt)
-          BADGE="![Visits](https://img.shields.io/badge/Visits-$VISITS-blue?style=flat-square&logo=github)"
-          sed -i "s|!\[Visits\](.*)|$BADGE|" README.md
-  
+          BADGE="\![Visits](https://img.shields.io/badge/Visits-$VISITS-blue?style=flat-square?logo=github)"
+          sed -i "s|\!\[Visits\](.*)|$BADGE|" README.md
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
