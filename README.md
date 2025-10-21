@@ -16,7 +16,7 @@
 
 # Hi there! 👋 
 
-**I'm Hajar** - I'm a software developer based in Malaysia. My main interest is in data science, machine learning & MLOps.
+**I'm Hajar** - I'm a software developer based in Malaysia. My main interest is in data science, machine learning, operations research & MLOps.
 
 In my free time I enjoy reading, drawing and raising my two cats 🐱🐱.
 
