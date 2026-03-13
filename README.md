@@ -15,6 +15,8 @@ Software Engineer | MLOps | AI & Operations Research
 
 I use daily: 🐍 Python · 🐚 Bash · 🐳 Docker · ⚡ FastAPI · ⚙️ GitHub Actions
 
+Learning: Go 🐹
+
 ☁️ Currently exploring cloud development & deployments  
 
 🐈 Proud mama of two cats
