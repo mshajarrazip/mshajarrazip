@@ -1,25 +1,21 @@
-<!--
-```  _   _                                ___                          
- ( ) ( )            _                 |  _ \               _        
- | |_| |   _ _     (_)   _ _  _ __    | (_) )   _ _  ____ (_) _ _   
- |  _  | / _  )    | | / _  )(  __)   |    /  / _  )(_   )| |(  _ \ 
- | | | |( (_| |    | |( (_| || |      | |\ \ ( (_| | / /_ | || (_) )
- (_) (_) \(_ _) _  | | \(_ _)(()      (_) (_) \(_ _)(__(_)( )|  __/ 
-         (_)   ( )_| | (_)   (_)              (_)     (_) /( | |    
-                \___/                                    (__)(_)    
-```
--->
+# Hi 👋 I'm Hajar Razip
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hajar-blue?logo=linkedin)](https://my.linkedin.com/in/hajar-razip-a05889193)
 [![Gmail](https://img.shields.io/badge/Gmail-hajarrazip@gmail.com-red?logo=gmail)](mailto:hajarrazip@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Hajar-orange?logo=stackoverflow)](https://stackoverflow.com/users/12093885/hajar-razip)
 <!-- ![Visits](https://img.shields.io/badge/Visits-48-blue?logo=github) -->
 
-# Hi there! 👋 
+Software Engineer | MLOps | AI & Operations Research 
 
-**I'm Hajar** - I'm a software developer based in Malaysia. My main interest is in data science, machine learning, operations research & MLOps.
+🐍 Pythonista  
+☁️ Currently exploring cloud development & deployments  
+🐈 Proud mama of two cats
 
-In my free time I enjoy reading, drawing and raising my two cats 🐱🐱.
+![Hajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshajarrazip&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshajarrazip&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mshajarrazip)
+![Profile Views](https://komarev.com/ghpvc/?username=mshajarrazip)
+
 
 <!--
 # Skills
