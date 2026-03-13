@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=mshajarrazip&color=blue)
 <!-- ![Visits](https://img.shields.io/badge/Visits-48-blue?logo=github) -->
 
-Software Engineer | MLOps | AI & Operations Research 
+**Software Engineer | MLOps | AI & Operations Research** 
 
 I use daily: 🐍 Python · 🐚 Bash · 🐳 Docker · ⚡ FastAPI · ⚙️ GitHub Actions
 
