@@ -10,9 +10,13 @@
 
 Software Engineer | MLOps | AI & Operations Research 
 
+
 🐍 I use daily: 🐍 Python · 🐚 Bash · 🐳 Docker · ⚡ FastAPI · ⚙️ GitHub Actions
+
 ☁️ Currently exploring cloud development & deployments  
+
 🐈 Proud mama of two cats
+
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mshajarrazip&show_icons=true&theme=tokyonight) -->
 
