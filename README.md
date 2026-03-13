@@ -1,6 +1,7 @@
 
 <div align="center">
-# Hi 👋 I'm Hajar Razip
+  
+<h1>Hi 👋 I'm Hajar Razip</h1> 
 
 🇲🇾
 
@@ -12,8 +13,7 @@
 
 Software Engineer | MLOps | AI & Operations Research 
 
-
-🐍 I use daily: 🐍 Python · 🐚 Bash · 🐳 Docker · ⚡ FastAPI · ⚙️ GitHub Actions
+I use daily: 🐍 Python · 🐚 Bash · 🐳 Docker · ⚡ FastAPI · ⚙️ GitHub Actions
 
 ☁️ Currently exploring cloud development & deployments  
 
