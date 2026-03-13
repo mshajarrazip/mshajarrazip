@@ -1,5 +1,7 @@
 # Hi 👋 I'm Hajar Razip
 
+🇲🇾
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hajar-blue?logo=linkedin)](https://my.linkedin.com/in/hajar-razip-a05889193)
 [![Gmail](https://img.shields.io/badge/Gmail-hajarrazip@gmail.com-red?logo=gmail)](mailto:hajarrazip@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Hajar-orange?logo=stackoverflow)](https://stackoverflow.com/users/12093885/hajar-razip)
@@ -8,7 +10,7 @@
 
 Software Engineer | MLOps | AI & Operations Research 
 
-🐍 Pythonista  
+🐍 I use daily: 🐍 Python · 🐚 Bash · 🐳 Docker · ⚡ FastAPI · ⚙️ GitHub Actions
 ☁️ Currently exploring cloud development & deployments  
 🐈 Proud mama of two cats
 
