@@ -1,3 +1,5 @@
+
+<div align="center">
 # Hi 👋 I'm Hajar Razip
 
 🇲🇾
@@ -43,3 +45,5 @@ Software Engineer | MLOps | AI & Operations Research
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,atom,eclipse,pycharm,vim)](https://skillicons.dev)
 -->
+
+</div>
