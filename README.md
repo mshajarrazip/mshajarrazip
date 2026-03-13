@@ -18,7 +18,7 @@ Software Engineer | MLOps | AI & Operations Research
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshajarrazip&layout=compact&theme=tokyonight&exclude_repo=notebooks,notebook) -->
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mshajarrazip&theme=rose)
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mshajarrazip&theme=rose) -->
 
 <!--
 # Skills
