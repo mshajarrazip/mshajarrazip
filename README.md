@@ -15,7 +15,7 @@
 
 I use daily: 🐍 Python · 🐚 Bash · 🐳 Docker · ⚡ FastAPI · ⚙️ GitHub Actions
 
-Learning: Go 🐹
+Currently learning: 🐹 Go 🧱 Terraform 🔷 Azure Cloud Services
 
 ☁️ Currently exploring cloud development & deployments  
 
