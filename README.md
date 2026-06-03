@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=mshajarrazip&color=blue)
 <!-- ![Visits](https://img.shields.io/badge/Visits-48-blue?logo=github) -->
 
-**Data Scientist | MLOps & Backend Development** 
+**Data Scientist | MLOps & Data Platform Engineering** 
 
 I use daily: 🐍 Python · 🐚 Bash · 🐳 Docker · ⚡ FastAPI · ⚙️ GitHub Actions
 
