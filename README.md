@@ -24,7 +24,7 @@ Currently learning: 🐹 Go 🧱 Terraform 🔷 Azure Cloud Services
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mshajarrazip&show_icons=true&theme=tokyonight) -->
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mshajarrazip&theme=solarized-light)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=mshajarrazip&theme=solarized-light) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshajarrazip&layout=compact&theme=tokyonight&exclude_repo=notebooks,notebook) -->
 
